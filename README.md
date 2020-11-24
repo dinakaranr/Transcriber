@@ -13,8 +13,8 @@ Open the terminal window in the visual studio. run the "npm run test" to execute
 
 
 HTML file output is generated in the cypress/reports/mochareports folder.
-test case passed then green message appear
+test case passed then green message appear.
 test case failed then assert failed message appears along with a screenshot.
-A message appears in the terminal window if the test case passed
+A message appears in the terminal window if the test case passed.
 
 
